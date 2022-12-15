@@ -28,7 +28,7 @@ for i in range(5):
          C_score=+1
          print("C_score",C_score)
          continue
-    elif C_choice=="1cissors" and u_choice=="rock":
+    elif C_choice=="scissors" and u_choice=="rock":
          U_score=+1
          print("U_score",U_score)
          continue
